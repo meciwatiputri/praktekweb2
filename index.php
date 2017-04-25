@@ -1,5 +1,5 @@
 <?php 
 
-	echo "Selamat Datang";
+	echo "selamat pagi";
 
  ?>
