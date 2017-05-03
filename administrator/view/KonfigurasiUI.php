@@ -2,7 +2,7 @@
 
 require_once 'View.php';
 
-class Berandakonf extends View
+class KonfigurasiUI extends View
 {
 	
 	public function tampilForm()
