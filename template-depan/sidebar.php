@@ -1,4 +1,4 @@
-<div class="well">
+                <div class="well">
                     <h4>Blog Search</h4>
                     <div class="input-group">
                         <input type="text" class="form-control">
@@ -52,6 +52,3 @@
             </div>
 
         </div>
-        <!-- /.row -->
-
-        <hr>

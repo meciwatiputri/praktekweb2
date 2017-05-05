@@ -1,5 +1,9 @@
 <?php 
+include 'view/BlogHome.php';
 
-	echo "selamat pagi";
+$brd = new BlogHome();
+
+$brd->tampilLengkap();
+
 
  ?>
