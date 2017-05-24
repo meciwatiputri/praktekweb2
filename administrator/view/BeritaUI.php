@@ -1,9 +1,7 @@
 <?php 
 
 require_once 'View.php';
-/**
-* 
-*/
+
 class BeritaUI extends View
 {
 	

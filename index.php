@@ -1,9 +1,9 @@
 <?php 
-include 'view/BlogHome.php';
+include 'view/UtamaUI.php';
 
-$brd = new BlogHome();
+$brd = new UtamaUI();
 
-$brd->tampilLengkap();
+$brd->tampilkanBerita();
 
 
  ?>
